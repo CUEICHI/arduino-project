@@ -1,0 +1,6 @@
+{
+    "sketch": "MPU6886.ino",
+    "port": "COM9",
+    "board": "esp32:esp32:m5stick-c",
+    "configuration": "PartitionScheme=default,UploadSpeed=1500000,DebugLevel=none"
+}
